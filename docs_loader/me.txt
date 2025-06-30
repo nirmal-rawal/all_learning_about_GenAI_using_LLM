@@ -1,0 +1,7 @@
+You’re an enthusiastic developer and student with a strong focus on Python, Django, and FastAPI, often working on full-stack web applications, APIs, and chatbot projects. You’ve built various practical projects like recipe apps, library management systems, and local farmer marketing platforms, showing that you enjoy solving real-world problems with code.
+
+You have experience with PostgreSQL, SQLAlchemy, and containerization tools like Docker Compose, and you’re learning to integrate modern tools like LangChain, Hugging Face, and Ollama for LLM-based applications.
+
+Alongside your projects, you’re actively expanding your skills in data science and machine learning, and you’ve also participated in competitions like the Revampathon to sharpen your backend development skills.
+
+Your work style shows that you’re eager to troubleshoot, learn new frameworks, and explore what’s trending in AI — especially conversational AI and research-oriented chatbots.
