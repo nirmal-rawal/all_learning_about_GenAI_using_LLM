@@ -1,0 +1,13 @@
+langchain-ollama
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+python-lsp-server   # ✅ real package, works!
+fastapi
+uvicorn
+bs4
+pypdf
+fiass-cpu
+wikipedia
+arxiv
